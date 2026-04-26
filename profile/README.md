@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/logo.png" alt="MetaCAD" width="120" height="120" />
+<img src="https://raw.githubusercontent.com/metacadio/.github/main/profile/logo.png" alt="MetaCAD" width="120" height="120" />
 
 # MetaCAD
 
