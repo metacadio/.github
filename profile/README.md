@@ -55,7 +55,7 @@ More repos open as Phase 0 validation milestones land.
 ## Get in touch
 
 - **Email** — mmotorin@gmail.com
-- **Telegram** — [@metacad_support](https://t.me/metacad_support)
+- **Telegram** — [@fxadmins](https://t.me/fxadmins)
 - **Founder** — Dmitriy Motorin · [linkedin.com/in/dmotorin](https://www.linkedin.com/in/dmotorin/) · MS Engineering (Naval Architecture), St. Petersburg State Marine Technical University, 2005
 
 We're raising a **$300K SAFE round** (post-money cap $5M) to fund Singapore validation runway. Maritime / deeptech / climate VCs, scouts, angels, class-society partners — reach out.
