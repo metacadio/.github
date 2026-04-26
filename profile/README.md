@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/metacadio/.github/main/profile/logo.png" alt="MetaCAD" width="120" height="120" />
+<img src="https://avatars.githubusercontent.com/u/279407054?s=240&v=4" alt="MetaCAD" width="120" height="120" />
 
 # MetaCAD
 
 **Browser-native maritime CAD.** Rust → WASM. No install. Inspector-grade math.
 
-[![Live on metacad.io]([https://img.shields.io/badge/live-metacad.io-0a3b6e?](https://avatars.githubusercontent.com/u/279407054?s=400&u=979b853fbf0c780ef43003fb4af2a72e269f51e2&v=4)logo=safari&logoColor=white)](https://metacad.io)
+[![Live on metacad.io](https://img.shields.io/badge/live-metacad.io-0a3b6e?logo=safari&logoColor=white)](https://metacad.io)
 [![Benchmarks CI](https://github.com/metacadio/benchmarks/actions/workflows/validate.yml/badge.svg)](https://github.com/metacadio/benchmarks/actions/workflows/validate.yml)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
