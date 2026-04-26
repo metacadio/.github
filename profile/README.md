@@ -20,6 +20,10 @@ MetaCAD is the first maritime CAD that runs entirely in your browser — **14 mo
 
 We replace $15K–$30K Windows-only seats (NAPA, GHS, Cargomax, Paramarine) with a free tier that any class society inspector, surveyor, or chief engineer can open in 30 seconds.
 
+[![MetaCAD Singapore landing — used operationally by a senior surveyor, integrated into a maritime college, validated against 7 benchmark hulls](https://raw.githubusercontent.com/metacadio/.github/main/profile/screenshots/02-singapore.png)](https://metacad.io/en/sg/)
+
+<sub>↑ live on [metacad.io/en/sg/](https://metacad.io/en/sg/) — Singapore landing showing operational users + benchmark hull list</sub>
+
 | Domain | What we ship |
 |---|---|
 | **Stability** | GZ curves (intact + damage), weather criterion, Second-Generation IS (parametric roll, dead-ship, surf-riding, pure loss, excessive accel), 3-DOF Monte-Carlo |
@@ -36,6 +40,16 @@ We replace $15K–$30K Windows-only seats (NAPA, GHS, Cargomax, Paramarine) with
 - **MPA Singapore SS 660** mandatory for all bunker deliveries from Q1 2026.
 - **EU ETS Phase 2** — 75% allowances 2026 → 100% 2027.
 - **WebGPU + Rust → WASM** crossed mainstream-browser maturity in 2024. The window to be the default browser-native CAD opens once.
+
+## Live in the browser
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://metacad.io/en/loading/loadicator/sim/"><img src="https://raw.githubusercontent.com/metacadio/.github/main/profile/screenshots/05-loadicator-sim.png" alt="Live Loadicator"/></a><br/><sub><b>Live Loadicator</b> — synthetic Kongsberg-style DAU bus, full IMO IS Code stability + SF/BM longitudinal strength, 3D tank-fill, <b>recalc 1 ms</b></sub></td>
+<td width="33%" valign="top"><a href="https://metacad.io/en/commercial/emissions/cii/"><img src="https://raw.githubusercontent.com/metacadio/.github/main/profile/screenshots/06-emissions-cii.png" alt="CII Calculator"/></a><br/><sub><b>IMO CII</b> — MARPOL Annex VI Reg 28 + MEPC.400(83). Live attained CII, A–E rating, FuelEU CO₂eq, step-by-step math (Anti-Black-Box)</sub></td>
+<td width="33%" valign="top"><a href="https://metacad.io/en/commercial/mfm-reconciliation/singapore/"><img src="https://raw.githubusercontent.com/metacadio/.github/main/profile/screenshots/03-mfm-singapore.png" alt="Singapore Bunker Dispute"/></a><br/><sub><b>Singapore MFM Reconciliation</b> — MPA SS 660 / TR 48 / eBDN 2025. 7 documented short-delivery tactics, $90 K install cost saved per surveyor</sub></td>
+</tr>
+</table>
 
 ## Public repositories
 
